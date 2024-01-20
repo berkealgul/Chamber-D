@@ -1,13 +1,13 @@
 
 .hg/
-binaries/
-deriveddatacache/
+Binaries/
+DerivedDataCache/
 .vs/
 build/
-intermediate/
+Intermediate/
 PACKPLUGIN/
 COMPPLUGIN/
-saved/
+Saved/
 *.orig
 *.sln
 *.xlsx
